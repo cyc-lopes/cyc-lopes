@@ -18,7 +18,7 @@ This repository displays some projects that were completed within the 39-week MI
 
 .
 
-*Please send me an email at chunkybeefsauce@gmail.com*
+*Please send me an email at chunkybeefsauce@gmail.com if you have any questions!*
 
 
 
